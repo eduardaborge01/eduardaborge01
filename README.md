@@ -1,4 +1,12 @@
-## Hi there 👋
+## Olá,bem vindo ao meu perfil 💓
+
+-Estou estudando na Alura;
+
+-Estou me desenvolvendo na linguagem JavaScript;
+
+-Aqui vou compartilhar meus projetos desenvolvidos;
+
+
 
 <!--
 **eduardaborge01/eduardaborge01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +21,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+## Estou estudando na Alura
+
